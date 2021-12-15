@@ -5,15 +5,15 @@ This repository was created to complete learning exercises of **Week 3** of my M
 
 ### **Exercise 1:** 'Remembering Names'
 
-The **user story** I was given for this exercise:
+The **user story** given for this exercise:
 ```
 * As a student
 * So that I can remember people's names
 * I want an IRB application that stores the names of people I meet
 ```
 
-#### **Exercise 2:** 'Basic Bank Account'
-The **user stories** I was given for this exercise:
+### **Exercise 2:** 'Basic Bank Account'
+The **user stories** given for this exercise:
 ```
 * As a customer,
 * So that I can keep my money safe,
