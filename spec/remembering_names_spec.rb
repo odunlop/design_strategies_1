@@ -1,4 +1,4 @@
-require 'input_names'
+require 'names_class'
 
 describe Names do
   it "stores names" do
